@@ -1,0 +1,13 @@
+{
+    "id": "WEELADS",
+    "name" : "Wee Laddies",
+    "author": ["Gullible"],
+    "description": "Adds extra cute and tiny Jokers, giving Wee Joker some more friends!",
+    "prefix": "wlads",
+    "main_file": "WeeLaddies.lua",
+    "badge_colour": "c7638f",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
